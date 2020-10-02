@@ -14,6 +14,9 @@ las credenciales de la aplicacion son:
     -maven installed
 	-docker installed
 
+# Funcionamiento
+
+[![Video](https://img.youtube.com/vi/E8ycYjdihSU/0.jpg)](https://www.youtube.com/watch?v=E8ycYjdihSU)
 ## Installation
  ```sh
 $ git pull https://github.com/danielGomez1703/Arep-Lab7
