@@ -1,0 +1,16 @@
+version: '2'
+
+services:
+  main:
+    build:
+      context: ./
+      dockerfile: secureApp/Dockerfile
+    ports:
+      - "45000:6000"
+      
+  service:
+    build:
+      context: ./secureService
+      dockerfile: Dockerfile
+    ports:
+      - "46000:6000"
