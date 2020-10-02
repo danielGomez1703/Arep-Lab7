@@ -34,15 +34,7 @@ $ docker-compose up -d
 	https://localhost:45000
 	
 
-    
-## Modelo
-![Modelo](https://github.com/danielGomez1703/Arep-Lab7/blob/master/resources/Model.JPG)
 
-    Este modelo describe la interaccion del programa a nivel de sus componentes. en el modelo destacan **calculator** y el **LinkedList**
-    el contendor es un implementacion propia de una lista en base a la implementacion LIST de java.
-    CalculatorMain tiene la clase anonima de calculator, en el codigo podemos ver como se hace mediante una funcion lambda y tambien mediante una clase anonima.
-    
-    
 
 ## Descripion
 	Dentro de este proyecto encontrara dos aplicaciones diferentes, estas aplicaciones se montan en docker de forma local y funcion. 
@@ -58,11 +50,12 @@ $ docker-compose up -d
 	por otro lado el servicio que locita este principal sera el siguiente:
 	
 ![evidencia3](https://github.com/danielGomez1703/Arep-Lab7/blob/master/resources/ev3.JPG)
-## Reporte
+
+## Reporte y Modelo
 
 para consultar el reporte debe acceder al link 
 
-[reporte de laboratorio](https://github.com/danielGomez1703/Arep-Lab7/blob/master/resources/Design_OO.pdf)
+[reporte de laboratorio](https://github.com/danielGomez1703/Arep-Lab7/blob/master/resources/SecureApp.pdf)
 
 ## Author
 
